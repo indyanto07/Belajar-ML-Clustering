@@ -48,12 +48,15 @@ The Average Joe: Pendapatan dan pengeluaran menengah.
 ⚙️ Setup & Installation
 Clone the repository
 
-Bash
+
 git clone https://github.com/username/customer-segmentation.git
+
 Install Dependencies
 
-Bash
+
 pip install pandas matplotlib seaborn scikit-learn yellowbrick
+
+
 Run the Analysis Buka file sc_cluster.ipynb di Jupyter Notebook atau Google Colab dan jalankan semua sel.
 
 💡 Tech Stack
